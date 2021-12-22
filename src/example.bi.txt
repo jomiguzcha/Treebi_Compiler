@@ -1,0 +1,17 @@
+tree aux2 & = 5 
+tree aux3 = "example" 
+int test = 29 
+string case = "casa" 
+aux . avl 
+
+# test + 26 
+# aux3 ++ "exam" 
+
+# eliminar_arbol ( aux2 ) 
+# visualizar ( aux3 ) 
+
+# if ( test > 29 ) { 
+# test + 10 
+# } else { 
+# test - 10 
+# }
